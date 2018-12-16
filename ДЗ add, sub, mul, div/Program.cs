@@ -75,6 +75,10 @@ namespace ДЗ_add__sub__mul__div
         static double MoneyConversion(double sum, double rate)
         {
             return sum * rate;
-        }        
+        }     
+
+
+
+
     }
 }
